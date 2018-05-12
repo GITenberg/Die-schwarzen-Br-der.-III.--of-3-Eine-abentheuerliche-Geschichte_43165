@@ -1,0 +1,28 @@
+_repo: Die-schwarzen-Br-der.-III.--of-3-Eine-abentheuerliche-Geschichte_43165
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zschokke, Heinrich
+    alias: Zschokke, Johann Heinrich Daniel
+    birthdate: 1771
+    deathdate: 1848
+    gutenberg_agent_id: '5011'
+    url: http://www.gutenberg.org/2009/agents/5011
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Zschokke
+description: ''
+gutenberg_issued: '2013-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43165'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: 'Die schwarzen Brüder: Eine abentheuerliche Geschichte. 3/3'
+url: http://www.gutenberg.org/ebooks/43165
